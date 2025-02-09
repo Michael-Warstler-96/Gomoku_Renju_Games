@@ -1,0 +1,13 @@
+#ifndef _ERROR_CODES_H_
+#define _ERROR_CODES_H_
+#define SUCCESS 0
+#define BOARD_SIZE_ERR 1
+#define STONE_TYPE_ERR 2
+#define COORDINATE_ERR 3
+#define FORMAL_COORDINATE_ERR 4
+#define NULL_POINTER_ERR 5
+#define FILE_OUTPUT_ERR 7
+#define FILE_INPUT_ERR 8
+#define RESUME_ERR 9
+#define ARGUMENT_ERR 10
+#endif
