@@ -1,5 +1,5 @@
 # Gomoku_Renju_Games
-Contains C project of Gomoku and Renju games and a replay program that allows users to replay a saved game. Gomoku and Renju are both games where two players alternate placing colored stones on a board to attempt five connections in a row. Renju is functionally the same as Gomoku except with several additional rules.
+Contains C project of Gomoku and Renju games and a replay program that allows users to replay a saved game. Gomoku and Renju are both games where two players alternate placing colored stones on a board to attempt five connections in a row. Renju is functionally the same as Gomoku except with several additional rules. Games involve UI, save states, file I/O, error conditions, and score keeping.
 
 HOW TO RUN: 
 1. These programs are built with a Make file. Inside the command prompt inside the project directory type the following: $ make    
